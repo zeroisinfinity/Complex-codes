@@ -1,5 +1,5 @@
-/cmake-*
-.idea
-/miscelleneous_code
-/others
-/sort
+cmake-*/
+.idea/
+miscelleneous_code/
+others/
+sort/
